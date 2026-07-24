@@ -1,4 +1,4 @@
-Entername: Build RoadCraft Mod
+name: Build RoadCraft Mod
 
 on:
   workflow_dispatch:
